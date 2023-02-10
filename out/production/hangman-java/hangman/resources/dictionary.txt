@@ -1,3 +1,0 @@
-java
-programming
-logic
